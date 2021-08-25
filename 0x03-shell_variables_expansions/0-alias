@@ -1,0 +1,4 @@
+#!/bin/bash
+alias list="ls"
+alias remove="rm *"
+
